@@ -1,1 +1,2 @@
 c:\users\thomas\documents\visual studio 2013\Projects\VSRepo_WinForm_Test\VSRepo_WinForm_Test\bin\Debug\VSRepo_WinForm_Test.exe.config
+C:\gitvsRepo\VSRepo_WinForm_Test\bin\Debug\VSRepo_WinForm_Test.exe.config
