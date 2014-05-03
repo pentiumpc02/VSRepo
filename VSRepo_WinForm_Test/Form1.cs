@@ -19,9 +19,15 @@ namespace VSRepo_WinForm_Test
             //test repo
         }
 
+
         private void button2_Click(object sender, EventArgs e)
         {
             //code here....
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //code...here
+
         }
     }
 }
