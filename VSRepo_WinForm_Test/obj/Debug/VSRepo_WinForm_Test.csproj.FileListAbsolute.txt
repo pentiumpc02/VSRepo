@@ -1,2 +1,11 @@
 c:\users\thomas\documents\visual studio 2013\Projects\VSRepo_WinForm_Test\VSRepo_WinForm_Test\bin\Debug\VSRepo_WinForm_Test.exe.config
 C:\gitvsRepo\VSRepo_WinForm_Test\bin\Debug\VSRepo_WinForm_Test.exe.config
+C:\gitvsRepo\VSRepo_WinForm_Test\bin\Debug\VSRepo_WinForm_Test.exe
+C:\gitvsRepo\VSRepo_WinForm_Test\bin\Debug\VSRepo_WinForm_Test.pdb
+C:\gitvsRepo\VSRepo_WinForm_Test\obj\Debug\VSRepo_WinForm_Test.csprojResolveAssemblyReference.cache
+C:\gitvsRepo\VSRepo_WinForm_Test\obj\Debug\VSRepo_WinForm_Test.Form1.resources
+C:\gitvsRepo\VSRepo_WinForm_Test\obj\Debug\VSRepo_WinForm_Test.Form5.resources
+C:\gitvsRepo\VSRepo_WinForm_Test\obj\Debug\VSRepo_WinForm_Test.Properties.Resources.resources
+C:\gitvsRepo\VSRepo_WinForm_Test\obj\Debug\VSRepo_WinForm_Test.csproj.GenerateResource.Cache
+C:\gitvsRepo\VSRepo_WinForm_Test\obj\Debug\VSRepo_WinForm_Test.exe
+C:\gitvsRepo\VSRepo_WinForm_Test\obj\Debug\VSRepo_WinForm_Test.pdb
